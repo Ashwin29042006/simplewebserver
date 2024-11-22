@@ -15,7 +15,7 @@ content="""
         </tr>
         <tr>
             <td>Processor</td>
-            <td>16th Gen Intel(R) Core(TM) i5-13450HX        2.40 GHz 
+            <td>13th Gen Intel(R) Core(TM) i5-13450HX        2.40 GHz 
             </td>
         </tr>
         <tr>

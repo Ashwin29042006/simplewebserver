@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:2-3-4
+## Date: 22-11-2024
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the configuration details of laptop.
@@ -39,7 +39,7 @@ content="""
         </tr>
         <tr>
             <td>Processor</td>
-            <td>16th Gen Intel(R) Core(TM) i5-13450HX        2.40 GHz 
+            <td>13th Gen Intel(R) Core(TM) i5-13450HX        2.40 GHz 
             </td>
         </tr>
         <tr>
@@ -95,6 +95,8 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
+![alt text](<Screenshot 2024-11-22 233502.png>)
+![alt text](<Screenshot 2024-11-22 213413.png>)
 
 
 ## RESULT:
